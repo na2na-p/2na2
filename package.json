@@ -17,7 +17,7 @@
 		"@types/request-promise-native": "1.0.21",
 		"@types/seedrandom": "3.0.8",
 		"@types/twemoji-parser": "13.1.4",
-		"@types/uuid": "9.0.7",
+		"@types/uuid": "10.0.0",
 		"@types/ws": "8.5.10",
 		"autobind-decorator": "2.4.0",
 		"canvas": "2.11.2",

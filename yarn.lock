@@ -1077,10 +1077,10 @@
   resolved "https://registry.yarnpkg.com/@types/twemoji-parser/-/twemoji-parser-13.1.4.tgz#b8dd8b4f8a9b003b5029472280f3e4cd71826515"
   integrity sha512-pDZcn6irxV/CD8C9cAEyZeECKFGZud8R5Zvs9PLO+5361GXu8khZ2peEwidMwq1dqYFSAbSQCUNkWDl87DsX2g==
 
-"@types/uuid@9.0.7":
-  version "9.0.7"
-  resolved "https://registry.yarnpkg.com/@types/uuid/-/uuid-9.0.7.tgz#b14cebc75455eeeb160d5fe23c2fcc0c64f724d8"
-  integrity sha512-WUtIVRUZ9i5dYXefDEAI7sh9/O7jGvHg7Df/5O/gtH3Yabe5odI3UWopVR1qbPXQtvOxWu3mM4XxlYeZtMWF4g==
+"@types/uuid@10.0.0":
+  version "10.0.0"
+  resolved "https://registry.yarnpkg.com/@types/uuid/-/uuid-10.0.0.tgz#e9c07fe50da0f53dc24970cca94d619ff03f6f6d"
+  integrity sha512-7gqG38EyHgyP1S+7+xomFtL+ZNHcKv6DwNaCZmJmo1vgMugyF3TCnXVg4t1uk89mLNwnLtnY3TpOpCOyp1/xHQ==
 
 "@types/websocket@1.0.10":
   version "1.0.10"
